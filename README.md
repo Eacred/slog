@@ -1,9 +1,9 @@
 slog
 ====
 
-[![Build Status](https://github.com/decred/slog/workflows/Build%20and%20Test/badge.svg)](https://github.com/decred/slog/actions)
+[![Build Status](https://github.com/Eacred/slog/workflows/Build%20and%20Test/badge.svg)](https://github.com/Eacred/slog/actions)
 [![ISC License](https://img.shields.io/badge/license-ISC-blue.svg)](http://copyfree.org)
-[![GoDoc](https://img.shields.io/badge/godoc-reference-blue.svg)](https://godoc.org/github.com/decred/slog)
+[![GoDoc](https://img.shields.io/badge/godoc-reference-blue.svg)](https://godoc.org/github.com/Eacred/slog)
 
 Package slog defines a logger interface and provides a default implementation
 of a subsystem-aware leveled logger implementing the same interface.
@@ -11,7 +11,7 @@ of a subsystem-aware leveled logger implementing the same interface.
 ## Installation and Updating
 
 ```bash
-$ go get -u github.com/decred/slog
+$ go get -u github.com/Eacred/slog
 ```
 
 ## License
